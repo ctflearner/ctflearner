@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ## Python Tool
 
-|Name                           |   Link|
+|Name                           |   LINK|
 |-------------------------------|-------|
 |FILE-INTEGRITY-MONITORING-TOOL |[LINK](https://github.com/ctflearner/Python-File-Integrity-Monitoring-Tool)|
-|VOLATILE-DATA-COLLECTOR        |[Link](https://github.com/ctflearner/VolatileDataCollector_inPython)|
+|VOLATILE-DATA-COLLECTOR        |[LINK](https://github.com/ctflearner/VolatileDataCollector_inPython)|
 |HASH                           |[Link](https://github.com/ctflearner/Hash)|
 
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ## LAB-SOLVED
 |PLATFORM             | LINK                                                                |
 |---------------------|---------------------------------------------------------------------|
-|Port-Swigger         |[Link](https://github.com/ctflearner/Portswigger-Academy-Labs-Solved)|
+|Port-Swigger         |[LINK](https://github.com/ctflearner/Portswigger-Academy-Labs-Solved)|
 |THM                  |[LINK](https://tryhackme.com/p/Affan1101)                            |
 |HTB                  |[LINK](https://app.hackthebox.com/profile/589151)                    |
 |CTF                  |[LINK](https://ctftime.org/team/179378)                                                             |
