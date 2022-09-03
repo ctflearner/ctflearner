@@ -33,3 +33,6 @@ Here are some ideas to get you started:
 |PLATFORM             | LINK                                                                |
 |---------------------|---------------------------------------------------------------------|
 |Port-Swigger         |[Link](https://github.com/ctflearner/Portswigger-Academy-Labs-Solved)|
+|THM                  |[LINK](https://tryhackme.com/p/Affan1101)                            |
+|HTB                  |[LINK](https://app.hackthebox.com/profile/589151)                    |
+|CTF                  |[LINK](https://ctftime.org/team/179378)                                                             |
