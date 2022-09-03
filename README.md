@@ -28,3 +28,8 @@ Here are some ideas to get you started:
 |PLATFORM             | LINK                                                              |
 |---------------------|-------------------------------------------------------------------|
 |PROVING-GROUND-OFFSEC|[LINK](https://github.com/ctflearner/Proving-Ground-OffSec-Writeup)|
+
+## LAB-SOLVED
+|PLATFORM             | LINK                                                                |
+|---------------------|---------------------------------------------------------------------|
+|Port-Swigger         |[Link](https://github.com/ctflearner/Portswigger-Academy-Labs-Solved)|
