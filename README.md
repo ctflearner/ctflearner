@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Python Tool
+
+|Name                           |   Link|
+|-------------------------------|-------|
+|FILE-INTEGRITY-MONITORING-TOOL |[LINK](https://github.com/ctflearner/Python-File-Integrity-Monitoring-Tool)|
+|VOLATILE-DATA-COLLECTOR        |[Link](https://github.com/ctflearner/VolatileDataCollector_inPython)|
+|HASH                           |[Link](https://github.com/ctflearner/Hash)|
+
+
+## Blog
+|PLATFORM             | LINK                                                              |
+|---------------------|-------------------------------------------------------------------|
+|PROVING-GROUND-OFFSEC|[LINK](https://github.com/ctflearner/Proving-Ground-OffSec-Writeup)|
