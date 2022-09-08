@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 |PLATFORM             | LINK                                                              |
 |---------------------|-------------------------------------------------------------------|
 |PROVING-GROUND-OFFSEC|[LINK](https://github.com/ctflearner/Proving-Ground-OffSec-Writeup)|
+|Hack-The-Box         |[Link](https://github.com/ctflearner/Hack-The-Box)                 |
 
 ## LAB-SOLVED
 |PLATFORM             | LINK                                                                |
