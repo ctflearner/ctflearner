@@ -37,3 +37,8 @@ Here are some ideas to get you started:
 |THM                  |[LINK](https://tryhackme.com/p/Affan1101)                            |
 |HTB                  |[LINK](https://app.hackthebox.com/profile/589151)                    |
 |CTF                  |[LINK](https://ctftime.org/team/179378)                                                             |
+
+
+## Learn365 Challenge
+|Learn365|[Link](https://github.com/ctflearner/Learn365)|
+|--------|----------------------------------------------|
