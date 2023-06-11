@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ctflearner&" alt="ctflearner" /></p> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ctflearner&label=Profile%20views&color=0e75b6&style=flat" alt="ctflearner" /> </p>
 
+![](https://komarev.com/ghpvc/?username=ctflearner&label=PROFILE+VIEWS)
 ## Python Tool
 
 |Name                           |   LINK|
