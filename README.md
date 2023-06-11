@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 * [RSA-File-Protector ](https://github.com/ctflearner/RSA-File-Protector)
 * [VOLATILE-DATA-COLLECTOR](https://github.com/ctflearner/VolatileDataCollector_inPython)
 * [HASH](https://github.com/ctflearner/Hash)
-* 
+
 
 ### :pushpin: Current Challenge
 [Learn365](https://github.com/ctflearner/Learn365) is a challenge to stay engaged in learning and personal development for a full year by setting a goal to learn something new every day, it can be anything from infosec. 
