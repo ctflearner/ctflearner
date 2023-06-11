@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ctflearner&show_icons=true&locale=en" alt="ctflearner" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ctflearner&" alt="ctflearner" /></p>
 
 ## Python Tool
 
