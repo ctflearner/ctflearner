@@ -60,6 +60,8 @@ Here are some ideas to get you started:
 ### :syringe: Exploits published on Exploit-db
 * https://www.exploit-db.com/exploits/51494 <br>
 * https://www.exploit-db.com/exploits/51492
+* https://www.exploit-db.com/exploits/51513
+* https://www.exploit-db.com/exploits/51512
 
 ### :microscope: Project
 * [FILE-INTEGRITY-MONITORING-TOOL](https://github.com/ctflearner/Python-File-Integrity-Monitoring-Tool) <br>
